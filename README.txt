@@ -11,4 +11,4 @@
 
 -To querry element from Marvel Api and add them to your database (only name and pictures url) you can execute "scripts/MarvelToSql". 
 
--Set your certificat in the folder "scripts" and rename it "certificat.cer"
+-Set your certificate in the folder "scripts" and rename it "certificat.cer"
