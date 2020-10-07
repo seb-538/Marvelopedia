@@ -15,7 +15,7 @@
 
 # Screenshots
 
-![Alt text](screenshots/MobileFullView.png?raw=true "Mobile full view)
+![Alt text](screenshots/MobileFullView.png?raw=true "Mobile full view")
 
 ![Alt text](screenshots/DetailView.png?raw=true "Detail view")
 
