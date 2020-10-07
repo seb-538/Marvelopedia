@@ -1,5 +1,5 @@
 
------------MARVELOPEDIA--------------
+# Marvelopedia
 
 -The (filled) database can be found in the folder "database".
 
@@ -12,3 +12,5 @@
 -To querry element from Marvel Api and add them to your database (only name and pictures url) you can execute "scripts/MarvelToSql". 
 
 -Set your certificate in the folder "scripts" and rename it if you need in "scripts/MarvelToSql.php" & "src/get_details.php" instead of "certificat.cer"
+
+# Screenshots

@@ -8,7 +8,7 @@
 
     if(isset($_POST["name"]))
     {
-        $hash = md5("1" . /*your public key here*/ . /*your public key here*/);
+        $hash = md5("1" . /*your private key here*/ . /*your public key here*/);
         $curl = curl_init("https://gateway.marvel.com:443/v1/public/characters?name=".htmlspecialchars($_POST["name"])."&ts=1&apikey="./*your public key here*/."&hash=".$hash);
         curl_setopt_array($curl, [
             CURLOPT_CAINFO          => __DIR__.DIRECTORY_SEPARATOR.'..\scripts\certificat.cer',
