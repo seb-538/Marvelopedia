@@ -14,3 +14,8 @@
 -Set your certificate in the folder "scripts" and rename it if you need in "scripts/MarvelToSql.php" & "src/get_details.php" instead of "certificat.cer"
 
 # Screenshots
+
+![Alt text](screenshots/MobileFullView.PNG?raw=true "Mobile full view")
+![Alt text](screenshots/DetailView.PNG?raw=true "Detail view")
+
+![Alt text](screenshots/Add.PNG?raw=true "Adding a character")
